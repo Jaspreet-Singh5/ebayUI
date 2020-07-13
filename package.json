@@ -1,7 +1,7 @@
 {
   "name": "ebay",
   "version": "1.0.0",
-  "description": "Challenge 1 for internship at Opdemy.",
+  "description": "Online store",
   "main": "index.js",
   "scripts": {
     "start": "node app.js",
